@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-init": "jasmine init",
+    "test-examples": "jasmine examples",
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
